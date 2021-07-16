@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="uhave">You Have:</string>
+    <string name="money">$2000</string>
+</resources>
